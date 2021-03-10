@@ -1,6 +1,7 @@
 ![Flutter](https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png)
 
 # [Official](https://flutter.dev/)
+
 - ### _Design beautiful apps_
 - ### _Productively build apps_
 - ### _Create faster apps_
@@ -8,17 +9,20 @@
 ---
 ## Made by ![Google](https://flutter.dev/assets/homepage/logo-google-fb903d829602dd356c500efc9dddf50b58f227ff1d88373c6caa64f997b663d3.svg)
 
+> Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
-Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 &emsp;
 ---
 
 
 
 ## Installation
+
 It’s free and open source.
 [Get Started](https://flutter.dev/docs/get-started/install)
+
 &emsp;
+
 ---
 
 ## ![Fast Development](https://flutter.dev/assets/homepage/icon-development-02b120c5632de8bcfebaa9af8d93938c403217b5be8d40d596af576c4ed85aa6.svg) Fast Development
