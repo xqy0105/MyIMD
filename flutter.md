@@ -28,6 +28,7 @@
 ## ![Fast Development](https://flutter.dev/assets/homepage/icon-development-02b120c5632de8bcfebaa9af8d93938c403217b5be8d40d596af576c4ed85aa6.svg) Fast Development
 
 > Flutter's hot reload helps you quickly and easily experiment, build UIs, add features, and fix bugs faster. Experience sub-second reload times without losing state on emulators, simulators, and hardware.
+&emsp;
 [Learn more](https://flutter.dev/docs/development/tools/hot-reload)
 
 &emsp;
@@ -35,6 +36,7 @@
 ## ![Expressive, beautiful UIs](https://flutter.dev/assets/homepage/icon-ui-5917d09ef0d8f9538615b4281870960b865bba4c8b6926b5adaef91433af0b07.svg) Expressive, beautiful UIs
 
 > Delight your users with Flutter's built-in beautiful Material Design and Cupertino (iOS-flavor) widgets, rich motion APIs, smooth natural scrolling, and platform awareness.
+&emsp;
 [Browse the widget catalog](https://flutter.dev/docs/development/ui/widgets)
 
 
@@ -42,7 +44,9 @@
 ## ![Native Performance](https://flutter.dev/assets/homepage/icon-performance-680fb3687109ba7ea0c22627da3a9fa761944ae7b521468003b932aa9133ca5b.svg) Native Performance
 
 > Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android.
+&emsp;
 [Examples of apps built with Flutter](https://flutter.dev/showcase)
+&emsp;
 Demo design inspired by [Aurélien Salomon](https://dribbble.com/aureliensalomon)'s [Google Newsstand Navigation Pattern](https://dribbble.com/shots/2940231-Google-Newsstand-Navigation-Pattern)
 
 &emsp;
