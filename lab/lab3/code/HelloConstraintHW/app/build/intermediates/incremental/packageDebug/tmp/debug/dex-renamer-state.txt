@@ -1,0 +1,4 @@
+#Wed Mar 24 16:54:39 CST 2021
+base.0=D\:\\Projects\\Homework\\Android-Developer-Fundamentals-Version-2\\1.2_Part_B_The_layout_editor\\HelloConstraintHW\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
